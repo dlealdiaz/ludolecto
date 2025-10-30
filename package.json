@@ -1,0 +1,20 @@
+{
+    "name": "juegos-abecedario-magico",
+    "version": "1.0.0",
+    "description": "Aplicación web educativa para aprender el abecedario español con juegos de Scratch",
+    "main": "index.html",
+    "scripts": {
+        "start": "python3 -m http.server 8000",
+        "start-node": "npx http-server -p 8000 -o"
+    },
+    "keywords": [
+        "educación",
+        "abecedario",
+        "juegos",
+        "scratch",
+        "niños",
+        "aprendizaje"
+    ],
+    "author": "",
+    "license": "MIT"
+}
